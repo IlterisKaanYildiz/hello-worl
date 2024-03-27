@@ -1,0 +1,14 @@
+D:\snippets\coreConsoleApplication\bin\Debug\net8.0\coreConsoleApplication.exe
+D:\snippets\coreConsoleApplication\bin\Debug\net8.0\coreConsoleApplication.deps.json
+D:\snippets\coreConsoleApplication\bin\Debug\net8.0\coreConsoleApplication.runtimeconfig.json
+D:\snippets\coreConsoleApplication\bin\Debug\net8.0\coreConsoleApplication.dll
+D:\snippets\coreConsoleApplication\bin\Debug\net8.0\coreConsoleApplication.pdb
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.AssemblyInfoInputs.cache
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.AssemblyInfo.cs
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.csproj.CoreCompileInputs.cache
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.dll
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\refint\coreConsoleApplication.dll
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.pdb
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\coreConsoleApplication.genruntimeconfig.cache
+D:\snippets\coreConsoleApplication\obj\Debug\net8.0\ref\coreConsoleApplication.dll
